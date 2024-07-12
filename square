@@ -1,0 +1,3 @@
+side_length = 10 # replace with the length of one side of the square
+area = side_length ** 2
+print("The area of the square is:", area)
